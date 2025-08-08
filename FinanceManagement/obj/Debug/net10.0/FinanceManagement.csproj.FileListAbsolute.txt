@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\bin\Debug\net10.0\FinanceManagement.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\bin\Debug\net10.0\FinanceManagement.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\bin\Debug\net10.0\FinanceManagement.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\bin\Debug\net10.0\FinanceManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\bin\Debug\net10.0\FinanceManagement.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\refint\FinanceManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\FinanceManagement.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\financemanagement\obj\Debug\net10.0\ref\FinanceManagement.dll
