@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\bin\Debug\net10.0\StudentGradingSystem.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\bin\Debug\net10.0\StudentGradingSystem.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\bin\Debug\net10.0\StudentGradingSystem.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\bin\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\bin\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\refint\StudentGradingSystem.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\StudentGradingSystem.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\studentgradingsystem\obj\Debug\net10.0\ref\StudentGradingSystem.dll
