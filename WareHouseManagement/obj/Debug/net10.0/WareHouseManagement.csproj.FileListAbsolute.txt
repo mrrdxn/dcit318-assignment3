@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\bin\Debug\net10.0\WareHouseManagement.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\bin\Debug\net10.0\WareHouseManagement.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\bin\Debug\net10.0\WareHouseManagement.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\bin\Debug\net10.0\WareHouseManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\bin\Debug\net10.0\WareHouseManagement.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\refint\WareHouseManagement.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\WareHouseManagement.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\warehousemanagement\obj\Debug\net10.0\ref\WareHouseManagement.dll
