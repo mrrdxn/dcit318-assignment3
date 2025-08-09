@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\bin\Debug\net10.0\InventoryApp.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\bin\Debug\net10.0\InventoryApp.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\bin\Debug\net10.0\InventoryApp.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\bin\Debug\net10.0\InventoryApp.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\bin\Debug\net10.0\InventoryApp.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\refint\InventoryApp.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\InventoryApp.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\inventoryapp\obj\Debug\net10.0\ref\InventoryApp.dll
