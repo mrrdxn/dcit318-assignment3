@@ -1,0 +1,15 @@
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\bin\Debug\net10.0\HealthCareSystems.exe
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\bin\Debug\net10.0\HealthCareSystems.deps.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\bin\Debug\net10.0\HealthCareSystems.runtimeconfig.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\bin\Debug\net10.0\HealthCareSystems.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\bin\Debug\net10.0\HealthCareSystems.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.AssemblyInfoInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.AssemblyInfo.cs
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.csproj.CoreCompileInputs.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.sourcelink.json
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\refint\HealthCareSystems.dll
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.pdb
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\HealthCareSystems.genruntimeconfig.cache
+C:\Users\mdxn911\Documents\GitHub\dcit318-assignment3\healthcaresystems\obj\Debug\net10.0\ref\HealthCareSystems.dll
